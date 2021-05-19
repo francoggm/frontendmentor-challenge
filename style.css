@@ -1,0 +1,111 @@
+body {
+    background-color: hsl(233, 47%, 7%);
+    color: wheat;
+}
+
+
+.firstpart {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     align-content: center;
+     width: 100%;
+     height: 100vh;
+}
+.aditionals{
+    margin: 0;
+    text-align: center;
+}
+
+.text {
+    padding: 20px 123px 0 50px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.info {
+    padding: 30px 200px 25px 0;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.text, .info {
+    background-color: hsl(244, 38%, 16%);
+}
+
+.info {
+   position: absolute;
+   top: 588px;
+
+}
+.info li {
+    display: inline-block;
+    margin-left: 21px;
+    margin-top: 0;
+    
+}
+
+.info p {
+    margin-bottom: 0;
+    
+}
+
+/* fonts and colors */
+
+#insights {
+    color: hsl(277, 64%, 61%);
+    text-decoration: none;
+    cursor:unset;
+}
+  
+.text {
+    font-family: 'Inter', sans-serif;
+}
+
+.text h1 {
+    color: hsl(0, 0%, 100%);
+    font-weight: 700;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+.secondText {
+    color: hsla(0, 0%, 100%, 0.75);
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.numbers {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 21px;
+}
+
+.aditionals {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 10.5px;
+    margin-top: 5px;
+    color: hsla(0, 0%, 100%, 0.6);
+    font-weight: 400;
+}
+
+/* Image Part */
+.imgWork {
+    max-height: 350.44px;
+    width: auto;
+    height: auto;
+    position: relative;
+    float: right;
+    bottom: 588px;
+    right: 270px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;    
+}
+
+.imageClass {
+    background-size: cover;
+    background-color: hsl(277, 64%, 61%);
+}
+
+
+
+
