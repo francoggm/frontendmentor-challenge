@@ -46,5 +46,6 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
 
 
-##Me 
+## Me 
+
 I'm new to the CSS and HTML world, but I tried this challenge with my skills that I have already learned on a daily basis. I had to leave some elements blank for not being able to, like superimposing an image on the photo and centering the card on the page. Thank you all!
